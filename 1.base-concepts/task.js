@@ -1,4 +1,4 @@
-"use strict";
+'use strict';
 
 function solveEquation(a, b, c) {
   let discriminant = b ** 2 - 4 * a * c;
